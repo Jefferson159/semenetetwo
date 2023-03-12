@@ -312,17 +312,36 @@ justify-content: center;
 }
 
 p{
-  color: #044d46;
+  color: #4d4204;
   font-size: 20px;
+  text-align: center;
+  margin-top: 15px;
+  
 }
 
 .video{
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
-.hinosnovos{
-  border-radius: 20px;
-  color: #0b4763;
+#color{
+  color: #044d46;
 }
+
+.audio{
+  background-color: #58b9a1;
+  padding: 20px 30px;
+  border-radius: 30px;
+  margin-bottom: 25px;
+}
+
+.carousel-inner{
+  margin-top: -50px;
+}
+footer{
+
+text-align: center;
+}
+
